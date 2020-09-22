@@ -1,6 +1,6 @@
 ****Components Required****
-1.Arduino UNO (or Arduino Nano) [Buy Here]
-2.L293D Motor Driver IC [Buy Here]
+1.Arduino UNO (or Arduino Nano) 
+2.L293D Motor Driver IC 
 3.Geared Motors x 2 
 4.Robot Chassis 
 5.IR Sensor Module x 2
