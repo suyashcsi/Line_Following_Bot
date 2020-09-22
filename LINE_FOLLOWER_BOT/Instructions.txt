@@ -1,6 +1,6 @@
 How to install:
 
-1. Download the "arduino-1.8.5-windows.exe" folder.
+1. Download the "arduino-1.8.5-windows.exe".
 2. Install "arduino-1.8.5-windows.exe".
 3. Open Arduino and click on the "File" option.
 4. Under "File" dropdown menu click "Preferences" tab.
