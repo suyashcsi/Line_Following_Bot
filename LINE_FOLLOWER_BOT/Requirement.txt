@@ -1,0 +1,13 @@
+****Components Required****
+1.Arduino UNO (or Arduino Nano) [Buy Here]
+2.L293D Motor Driver IC [Buy Here]
+3.Geared Motors x 2 
+4.Robot Chassis 
+5.IR Sensor Module x 2
+6.Black Tape (Electrical Insulation Tape)
+7.Connecting Wires
+8.Power supply 
+9.Battery Connector
+10.Battery Holder
+
+Note: I have used a prebuilt IR Sensor Module that consists of an IR LED and a Photo Diode.

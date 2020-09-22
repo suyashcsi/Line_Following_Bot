@@ -1,0 +1,14 @@
+How to install:
+
+1. Download the "arduino-1.8.5-windows.exe" folder.
+2. Install "arduino-1.8.5-windows.exe".
+3. Open Arduino and click on the "File" option.
+4. Under "File" dropdown menu click "Preferences" tab.
+5. In "Preferences" dialog box click on the bottom most clickable address (like C:\Users\RISHABH\AppData\Local\Arduino15).
+
+6. Download the "Arduino15.zip" from link provided.
+7. Extract "Arduino15.zip" to "Arduino15" folder.
+8. Copy all the files from "Arduino15" folder and paste to location you have opened earlier.
+
+That's all!!
+Now you can upload code on NodeMCU!!
